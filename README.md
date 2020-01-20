@@ -1,11 +1,11 @@
-#C++ Pong#
+# C++ Pong #
 
 A little challenge from a book.
 
 - Singleplayer
 - Multiplayer
 
-###To do###
+### To do ###
 
 * Add start menu
 * Add lives
