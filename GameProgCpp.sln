@@ -5,6 +5,8 @@ VisualStudioVersion = 16.0.29709.97
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "GameProgCpp", "GameProgCpp\GameProgCpp.vcxproj", "{180CC682-6948-4CD2-B2FE-C2FD2BDF78CE}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Pong2Player", "Pong - 2 Player\Pong2Player.vcxproj", "{E019E0D1-D651-459B-A29B-A4106035BDC7}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -21,6 +23,14 @@ Global
 		{180CC682-6948-4CD2-B2FE-C2FD2BDF78CE}.Release|x64.Build.0 = Release|x64
 		{180CC682-6948-4CD2-B2FE-C2FD2BDF78CE}.Release|x86.ActiveCfg = Release|Win32
 		{180CC682-6948-4CD2-B2FE-C2FD2BDF78CE}.Release|x86.Build.0 = Release|Win32
+		{E019E0D1-D651-459B-A29B-A4106035BDC7}.Debug|x64.ActiveCfg = Debug|x64
+		{E019E0D1-D651-459B-A29B-A4106035BDC7}.Debug|x64.Build.0 = Debug|x64
+		{E019E0D1-D651-459B-A29B-A4106035BDC7}.Debug|x86.ActiveCfg = Debug|Win32
+		{E019E0D1-D651-459B-A29B-A4106035BDC7}.Debug|x86.Build.0 = Debug|Win32
+		{E019E0D1-D651-459B-A29B-A4106035BDC7}.Release|x64.ActiveCfg = Release|x64
+		{E019E0D1-D651-459B-A29B-A4106035BDC7}.Release|x64.Build.0 = Release|x64
+		{E019E0D1-D651-459B-A29B-A4106035BDC7}.Release|x86.ActiveCfg = Release|Win32
+		{E019E0D1-D651-459B-A29B-A4106035BDC7}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
